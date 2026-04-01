@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm [Nama Kamu]!
 
-<!--
-**KiaiAji/KiaiAji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Mahasiswa Teknik Informatika** | Universitas Bengkulu  
+💡 Passionate about turning data into insights!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 My Interests
+- **Data Science & Analysis**: Data Mining, Data Engineering, Visualization  
+- **Artificial Intelligence & Machine Learning**: Computer Vision, Predictive Modeling  
+- Experimenting with cool data-driven projects and AI solutions  
+
+---
+
+## 🛠️ Languages & Tools
+- **Python** – Pandas, NumPy, Scikit-learn, TensorFlow  
+- **PHP** – Web development, APIs  
+- **C++** – Algorithms & Problem Solving  
+
+---
+
+## 🌱 Currently Learning
+- Advanced Machine Learning & Deep Learning  
+- Big Data & Cloud Technologies  
+- Real-world AI applications  
+
+---
+
+## ⚡ Fun Fact
+I love exploring **data puzzles** and turning raw numbers into **actionable insights**. Let's make data fun!  
+
+---
