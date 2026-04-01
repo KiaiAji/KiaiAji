@@ -25,7 +25,7 @@
 ```python
 class MahasiswaInformatika:
     def __init__(self):
-        self.nama       = "YOUR_NAME"
+        self.nama       = "Ghazi Al-Ghifari"
         self.universitas = "Universitas Bengkulu"
         self.jurusan    = "Teknik Informatika"
         self.lokasi     = "Bengkulu, Indonesia 🇮🇩"
