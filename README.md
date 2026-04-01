@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ghazi Al-Ghifari!
+# Hi there 👋, I'm KiaiAji!
 
 🎓 **Mahasiswa Teknik Informatika** | Universitas Bengkulu  
 💡 Passionate about turning **data into insights** and building smart AI solutions!  
@@ -33,3 +33,9 @@
 ## ⚡ Fun Fact
 I love exploring **data puzzles** and turning raw numbers into **actionable insights**.  
 “Data is the new oil, but insights are the engine!” 🚀  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiaiAji&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiaiAji&layout=compact&theme=tokyonight)
