@@ -104,7 +104,6 @@ me.say_hi()
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=KiaiAji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=1d9e75&text_color=c9d1d9&ring_color=1d9e75" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KiaiAji&theme=tokyonight&hide_border=true&background=0d1117&ring=1d9e75&fire=5dcaa5&currStreakLabel=1d9e75" width="49%" />
 
 <br/>
 
