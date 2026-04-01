@@ -33,9 +33,3 @@
 ## ⚡ Fun Fact
 I love exploring **data puzzles** and turning raw numbers into **actionable insights**.  
 “Data is the new oil, but insights are the engine!” 🚀  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?KiaiAji=USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?KiaiAji=USERNAME&layout=compact&theme=tokyonight)
