@@ -123,11 +123,11 @@ me.say_hi()
 <div align="center">
 
 ```
-🔭  Exploring   →  Deep Learning & Neural Networks
-🌱  Learning    →  MLOps & Model Deployment
-👯  Looking to  →  Collaborate on Data Science projects
-💬  Ask me about →  Python, Data Analysis, Machine Learning
-⚡  Fun fact    →  I talk to datasets more than people 😄
+- 🔭  Exploring   →  Deep Learning & Neural Networks
+- 🌱  Learning    →  MLOps & Model Deployment
+- 👯  Looking to  →  Collaborate on Data Science projects
+- 💬  Ask me about →  Python, Data Analysis, Machine Learning
+- ⚡  Fun fact    →  I talk to datasets more than people 😄
 ```
 
 </div>
