@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Nama Kamu]!
+# Hi there 👋, I'm Ghazi Al-Ghifari!
 
 🎓 **Mahasiswa Teknik Informatika** | Universitas Bengkulu  
 💡 Passionate about turning **data into insights** and building smart AI solutions!  
